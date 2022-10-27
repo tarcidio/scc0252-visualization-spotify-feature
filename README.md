@@ -37,6 +37,6 @@ Por fim, vale ressaltar que toda a explicação da extração destes dados encon
 
 ---
 
-<sup>Universidade de São Paulo (USP) - Instituto de Ciências Matemáticas e de Computação (ICMC)</sup>
+<sup>Universidade de São Paulo (USP) \n Instituto de Ciências Matemáticas e de Computação (ICMC)</sup>
 
 
