@@ -7,6 +7,8 @@
 * Tarcídio Antônio Júnior - 10748347
 * Rafael Kuhn Takano - 11200459
 
+<sup>Instituto de Ciências Matemáticas e de Computação (ICMC) - Universidade de São Paulo (USP)</sup>
+
 ## Instituição
 * 
 
