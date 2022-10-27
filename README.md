@@ -1,4 +1,4 @@
-## Trabalho SCC0252 Visualização Computacional: estudando ["Spotify Features"](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
+# Trabalho SCC0252 Visualização Computacional:
 
 ## Autores:
 
@@ -11,11 +11,9 @@
 
 ## Objetivo do trabalho
 
-
   Para entender praticando, o grupo utilizar um conjunto de dados extraídos do Spotify (utilizando sua API). Neste documento, encontra-se visualizações detalhando os diversos atributos, seja categóricos ou numéricos, do dataset. Quando possível, os autores expressam suas conclusões sobre os dados em diferentes momentos. 
 
 ## Ferramentas
-
 
   Para elaboração, utilizou-se a linguagem Python e, principalmente, as bibliotecas Pandas, Matplotlib, Seaborn e Numpy. Algumas das inúmeras ferramentas visuais utilizadas foram:
 * Mapa de calor
