@@ -1,12 +1,13 @@
-# scc0252-visualization-spotify-feature
+# Trabalho: Visualização dos dados ["Spotify Features"](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
 
-## Trabalho 01: Visualização dos dados ["Spotify Features"](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
+## **Autores**:
+
+* Tarcídio Antônio Júnior - 10748347
+* Rafael Kuhn Takano - 11200459
 
 **Disciplina**: SCC0252 - Visualização Computacional
 
-**Autores**:
-* Tarcídio Antônio Júnior - 10748347
-* Rafael Kuhn Takano - 11200459
+
 
 Universidade de São Paulo (USP)
 
