@@ -1,11 +1,12 @@
 # scc0252-visualization-spotify-feature
 
 **SCC0252 - Visualização Computacional**
+Universidade de São Paulo (USP)
+Instituto de Ciências Matemáticas e de Computação (ICMC)
 
 Trabalho 01: Visualização dos dados ["Spotify Features"](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
 
 Tarcídio Antônio Júnior - 10748347
-
 Rafael Kuhn Takano - 11200459
 
 ---
