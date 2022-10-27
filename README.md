@@ -11,7 +11,7 @@
 
   Ciência de Dados extrai conclusões a partir de dados brutos utilizando estatística e técnicas de aprendizagem de máquina. Na primeira etapa, faz-se o  pré-processamento que resume-se em, nesta ordem, extrair os dados, limpá-los e **visualizá-los**. A última é de grande importância para guiar as etapas de análise, provendo ótimas noções de como os dados se comportam, ideias de como **explorá-los**, além de encurtar o tempo de entendimento para aqueles não são familiarizado com o assunto.
 
-##O bjetivo do trabalho
+## Objetivo do trabalho
 
 
   Para entender praticando, o grupo utilizar um conjunto de dados extraídos do Spotify (utilizando sua API). Neste documento, encontra-se visualizações detalhando os diversos atributos, seja categóricos ou numéricos, do dataset. Quando possível, os autores expressam suas conclusões sobre os dados em diferentes momentos. 
