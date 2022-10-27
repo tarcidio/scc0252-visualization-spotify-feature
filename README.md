@@ -7,14 +7,6 @@
 * Tarcídio Antônio Júnior - 10748347
 * Rafael Kuhn Takano - 11200459
 
-**Disciplina**: SCC0252 - Visualização Computacional
-
-
-
-Universidade de São Paulo (USP)
-
-Instituto de Ciências Matemáticas e de Computação (ICMC)
-
 ---
 
 **Introdução**
@@ -42,3 +34,7 @@ Instituto de Ciências Matemáticas e de Computação (ICMC)
 ---
 
 Por fim, vale ressaltar que toda a explicação da extração destes dados encontra-se no [perfil do Zaheen Hamidani](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db) na [Kaggle](https://www.kaggle.com/), plataforma para aprendizado de ciências de dados. Cada atributo do dataset será explicado, porém as mesmas informações podem ser encontradas no [Spotify For Developers](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-features), site que documenta a API do Spotify.
+
+---
+
+Universidade de São Paulo (USP) - Instituto de Ciências Matemáticas e de Computação (ICMC)
