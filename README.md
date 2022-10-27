@@ -1,4 +1,6 @@
-# Trabalho: Visualização dos dados ["Spotify Features"](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
+# Trabalho SCC0252 Visualização Computacional
+
+## **Título**: Visualização dos dados ["Spotify Features"](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
 
 ## **Autores**:
 
