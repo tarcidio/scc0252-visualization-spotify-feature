@@ -1,5 +1,17 @@
 # scc0252-visualization-spotify-feature
 
+**SCC0252 - Visualização Computacional**
+
+Trabalho 01: Visualização dos dados ["Spotify Features"](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
+
+---
+
+Tarcídio Antônio Júnior - 10748347
+
+Rafael Kuhn Takano - 11200459
+
+---
+
 **Introdução**
 ---
   Ciência de Dados extrai conclusões a partir de dados brutos utilizando estatística e técnicas de aprendizagem de máquina. Na primeira etapa, faz-se o  pré-processamento que resume-se em, nesta ordem, extrair os dados, limpá-los e **visualizá-los**. A última é de grande importância para guiar as etapas de análise, provendo ótimas noções de como os dados se comportam, ideias de como **explorá-los**, além de encurtar o tempo de entendimento para aqueles não são familiarizado com o assunto.
