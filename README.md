@@ -4,8 +4,6 @@
 
 Trabalho 01: Visualização dos dados ["Spotify Features"](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
 
----
-
 Tarcídio Antônio Júnior - 10748347
 
 Rafael Kuhn Takano - 11200459
