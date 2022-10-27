@@ -1,6 +1,6 @@
 # scc0252-visualization-spotify-feature
 
-##**SCC0252 - Visualização Computacional**
+## **SCC0252 - Visualização Computacional**
 
 Universidade de São Paulo (USP)
 
