@@ -4,6 +4,7 @@
 
 * Tarcídio Antônio Júnior - 10748347
 * Rafael Kuhn Takano - 11200459
+* Igor Antunes Boson Paes - 11200571
 
 ## Introdução
 
